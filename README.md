@@ -1,5 +1,5 @@
-<h1 align="center"> Olá! <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="waving hand" width="30" height="30"><br> Sou o Rodrigo Póvoa </h1>
-<div>
+## Hello World! 👋
+Sou o Rodrigo Póvoa.
   
 - 👨‍🎓 <strong> Formação Superior </strong> </br> Bacharel em Administração, apaixonado por programação.
 
@@ -15,12 +15,10 @@
 
 - 📈 <strong> Objetivos </strong> </br> Sempre buscando novos desafios para aperfeiçoar as técnicas de programação e me tornar um Desenvolvedor Full-Stack.
 
-<h2> Contatos <h2>
+#### Contatos
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="110" align ="center">](mailto:rodrigobraule10@gmail.com)
 <a href="https://www.linkedin.com/in/rodrigo-p%C3%B3voa/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" width="110" /></a>
-<a href="https://api.whatsapp.com/send?phone=5561982726127" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" height="30" width="110" /></a>
-
   
   <h4> Visitors </h4>
   <img src="https://profile-counter.glitch.me/jrpovoa/count.svg">
