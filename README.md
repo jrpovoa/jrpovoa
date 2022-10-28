@@ -4,7 +4,7 @@ Sou o Rodrigo Póvoa.
 - 👨‍🎓 <strong> Formação Superior </strong> </br> Bacharel em Administração, apaixonado por programação.
 
 
-- 📚 <strong> Estudos </strong> </br> Almejo ser um desenvolvedor Full Stack, estudei na Labenu e no momento tentando dominar as seguintes linguagens: Javascript, React.js, Node.js, Typescript, HTML, CSS, AWS, SQL.
+- 📚 <strong> Estudos </strong> </br> Almejo ser um desenvolvedor Full Stack, estudei na Labenu e possuo experiencia com: Javascript, React.js, Node.js, Typescript, HTML, CSS, AWS, SQL.
 
     [<img align="left" height="94px" width="94px" alt="Infracommerce" src="https://user-images.githubusercontent.com/73656973/135145144-b8572a6c-b44e-4337-9b83-bde7f21b9327.png"/>](https://www.labenu.com.br/)
     **Full Stack Developer Student** \
